@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "esp32-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "da40248b-d55c-4bb2-976e-9843cd3a0e7c",
+			"database_name": "d1-esp32-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
